@@ -1,0 +1,1 @@
+{"root":["../src/server.ts","../src/errors/apperrors.ts","../src/modules/users/dtos/createuserusecasedto.ts","../src/modules/users/usecases/createuser/createusercontroller.ts","../src/modules/users/usecases/createuser/createuserusecase.ts","../src/prisma/client.ts","../src/routes/router.ts","../src/routes/user.routes.ts"],"errors":true,"version":"5.7.3"}
